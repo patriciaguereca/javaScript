@@ -3,3 +3,4 @@ var add = function (a, b) {
 };
 var name = "hi";
 document.write(name);
+fnjwdkg
